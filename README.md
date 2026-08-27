@@ -24,6 +24,9 @@ and _weather_. We then create additional dimensions and measures for analysis an
 * Dashboard that allows ongoing monitoring of trends.
 * What actions would you take based on these insights?
 ## SQL Analysis
+* _sales_ table: We have daily sales data for 4 shops spanning 2 years:
+  * Fields: _date_, _shop_id_, _shop_name_, _customers_ (no. of customers), _sales_usd_
+  * 
 ## Power BI Analysis and Visualizations
 ## Insights
 ## Recommendations
