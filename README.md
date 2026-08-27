@@ -1,6 +1,6 @@
 # SQL | Power BI | Data Analysis Project - Florida Retail Shops Sales Analysis
 ## Project Overview
-In this project, we link sales data of 4 Miami Retail Shops spanning over 2 years (2023 and 2024) with customer demographics (gender, household type) and weather
+In this project, we link sales data of 4 Florida Retail Shops spanning over 2 years (2023 and 2024) with customer demographics (gender, household type) and weather
 data(temperature, rainfall, humidity) to identify correlations that impact sales trends like seasonality, weekend lift in sales, rainfall and temperature
 effects and so on.
 The workflow involves building an SQL database using data from .csv files. We create/import three tables in SQL: _sales_, _survey_ (having customer demographics) 
@@ -27,3 +27,10 @@ and _weather_. We then create additional dimensions and measures for analysis an
 ## Power BI Analysis and Visualizations
 ## Insights
 ## Recommendations
+* Sales are shaped by weather, location and customer mix. To maximize growth, managers must adapt operations to seasonal shifts and customer patterns.
+* Increase Staff and Stock on **hot summer days**.
+* Run **rainy-day discounts** to keep traffic steady.
+* Expand **Miami** in **peak tourism months**.
+* Build **loyalty** in **Jacksonville**.
+* Target **families on weekends** and **singles on weekdays**.
+
