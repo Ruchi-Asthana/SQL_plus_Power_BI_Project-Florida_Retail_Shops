@@ -4,7 +4,7 @@ In this project, we link sales data of 4 Florida Retail Shops spanning over 2 ye
 data (temperature, rainfall, humidity) to identify correlations that impact sales trends like seasonality, weekend lift in sales, rainfall and temperature
 effects and so on.
 The workflow involves building an SQL database using data from .csv files. We create/import three tables in SQL: _sales_, _survey_ (having customer demographics) 
-and _weather_. We then create additional dimensions and measures for analysis and join the three tables into a single SQL VIEW, which we import to Power BI for further analysis, dashboarding and deeper insights.
+and _weather_. We then create additional dimensions and measures for analysis and join the three tables into a single SQL VIEW, which we import into Power BI for further analysis, dashboarding and deeper insights.
 ## Business Context
 * There are 4 Retail Shops in Florida: Miami, Orlando, Tampa and Jacksonville.
 * Sales are strongly influenced by weather patterns.
@@ -38,7 +38,7 @@ and _weather_. We then create additional dimensions and measures for analysis an
 * Additional fields and measures created:
   * _day_of_week_ (to understand weekday and weekend sales trends)
   * _is_weekend_ (Weekend/Weekday)
-  * _sales_per_customer (daily sales per customer)
+  * _sales_per_customer (average daily sales per customer)
 * Finally, joining the tables using _left join_ for a consolidated View.
 ## Power BI Analysis and Visualizations
 * Import the SQL View from SQL Database into Power BI.
