@@ -41,9 +41,40 @@ and _weather_. We then create additional dimensions and measures for analysis an
   * _sales_per_customer (average daily sales per customer)
 * Finally, joining the tables using _left join_ for a consolidated View.
 ## Power BI Analysis and Visualizations
-* Import the SQL View from SQL Database into Power BI.
-* 
+* Import the View from the SQL Database into Power BI.
+* Sales Performance Overview
+  * The dashboard opens with high‑level KPIs summarizing business performance:
+    * Revenue: $11.87M
+    * Customers: 698K
+    * Revenue per Customer: $17
+  * We use DAX to calculate current and previous month's sales and month-over-month sales growth.
+  * A Month‑over‑Month (MoM) Sales Growth chart visualizes sales fluctuations across 2023–2024. The accompanying table shows monthly sales, previous month comparisons, and MoM growth percentages. For example, June 2023 shows a strong 15.90% MoM growth, while February 2023 dips by –11.08%.
+* Shop‑wise Revenue Contribution
+  * A Donut chart highlights revenue distribution across four major locations:
+    * Miami Beach: 32%
+    * Orlando: 26%
+    * Tampa: 23%
+    * Jacksonville: 19%
+* Customer Demographics
+  * Multiple visuals break down customers by gender and household type across cities.
+  * We also breakdown customer revenue contribution based on these demographics.
+* Seasonality Trends
+  * A seasonal trend chart shows monthly sales patterns, highlighting growth periods and peak seasons. Sales per customer also fluctuates slightly across months.
+  * Rainy vs Non‑Rainy Day Sales: A simple visual shows that 70% of sales occur on rainy days, compared to 30% on non‑rainy days.
+  * We also analyse customer traffic seasonality, breaking it down by gender and household type.
+  * Weekday vs Weekend Performance
+    * Revenue and foot traffic are plotted across all seven days.
+    * Weekends show noticeable lifts in both sales and customer visits, with Saturday and Sunday outperforming weekdays.
+  * The dashboard also has slicers to filter the visuals based on Year, Shop Name and Rainy/Non-Rainy days.
+* Weather Analysis Dashboard
+  * This section correlates daily foot traffic and sales with weather variables to study the impact of weather on customer demand and behaviour.
+    * Temperature vs Sales
+    * Precipitation vs Foot Traffic
+    * Humidity vs Foot Traffic
+    * Rainfall vs. daily sales
+  * The dashboard has slicers to filter the visuals based on Year, Shop Name and Weekend/Weekday. 
 ## Insights
+
 ## Recommendations
 * Sales are shaped by weather, location and customer mix. To maximize growth, managers must adapt operations to seasonal shifts and customer patterns.
 * Increase Staff and Stock on **hot summer days**.
