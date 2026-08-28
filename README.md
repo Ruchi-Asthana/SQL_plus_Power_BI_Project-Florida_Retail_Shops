@@ -74,7 +74,15 @@ and _weather_. We then create additional dimensions and measures for analysis an
     * Rainfall vs. daily sales
   * The dashboard has slicers to filter the visuals based on Year, Shop Name and Weekend/Weekday. 
 ## Insights
-
+* Seasonal Patterns in sales:
+  * Sales rise steadily from March onwards and peak in August due to summer tourism.
+  * The MOM sales growth spikes in June and July of both 2023 and 2024 indicating seasonal demand or promotional periods.
+  * Weekends show more customer visits as well as generate more sales than the rest of the week. Wednesdays and Thursdays are the lowest in foot traffic.
+  * Male customer visits peak from March through May.
+  * Female customer visits peak from July through September. We also see highest visits from both household types in this period.
+  * Rainy days account for 70% of total sales.
+* Shop Performance and Customer Demography:
+* Impact of weather variables:
 ## Recommendations
 * Sales are shaped by weather, location and customer mix. To maximize growth, managers must adapt operations to seasonal shifts and customer patterns.
 * Increase Staff and Stock on **hot summer days**.
