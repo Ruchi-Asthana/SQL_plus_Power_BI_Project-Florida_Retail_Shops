@@ -76,7 +76,7 @@ and _weather_. We then create additional dimensions and measures for analysis an
 ## Insights
 * Seasonal Patterns in sales:
   * Sales rise steadily from March onwards and peak in August due to summer tourism.
-  * The MOM sales growth spikes in June and July of both 2023 and 2024 indicating seasonal demand or promotional periods.
+  * The MOM sales growth spikes in June and July of both 2023 and 2024 again indicating summer peaks or promotional periods.
   * Saturday and Sunday consistently outperform weekdays in both revenue and customer visits. Wednesdays and Thursdays are the lowest in foot traffic.
   * Male customer visits peak from March through May.
   * Female customer visits peak from July through September. We also see highest visits from both household types in this period.
@@ -84,11 +84,12 @@ and _weather_. We then create additional dimensions and measures for analysis an
 * Shop Performance and Customer Demography:
   * Miami has highest overall sales and foot traffic as well as in each customer category.
   * Miami and Orlando have significantly higher _single_ and _female_ shoppers making them a favourite destination for this demography.
-  * Males contribute to sales more than females and Singles contribute more than Families across cities.
+  * Males contribute to sales more than Females and Singles contribute more than Families across cities.
+  * Jacksonville is lowest in sales and customer traffic across cities and category.
 * Impact of weather variables:
   * Increase in precipitation reduces foot traffic indicating people don't step out on days it is _likely_ to rain.
   * Daily sales increase with temperature significantly in Miami 
-  * Increase in humidity increases foot traffic 
+  * Increase in humidity gives relief on dry hot days, increasing foot traffic.
 ## Recommendations
 * Sales are shaped by weather, location and customer mix. To maximize growth, managers must adapt operations to seasonal shifts and customer patterns.
 * Increase Staff and Stock on **hot summer days**.
