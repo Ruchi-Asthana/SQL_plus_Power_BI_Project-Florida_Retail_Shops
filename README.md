@@ -75,7 +75,7 @@ and _weather_. We then create additional dimensions and measures for analysis an
   * The dashboard has slicers to filter the visuals based on Year, Shop Name and Weekend/Weekday. 
 ## Insights
 * Seasonal Patterns in sales:
-  * Sales rise steadily from March onwards and peak in August due to summer tourism.
+  * Sales rise steadily from March onwards and peak in August due to high summer tourism.
   * The MOM sales growth spikes in June and July of both 2023 and 2024 again indicating summer peaks or promotional periods.
   * Saturday and Sunday consistently outperform weekdays in both revenue and customer visits. Wednesdays and Thursdays are the lowest in foot traffic.
   * Male customer visits peak from March through May.
@@ -88,13 +88,13 @@ and _weather_. We then create additional dimensions and measures for analysis an
   * Jacksonville is lowest in sales and customer traffic across cities and category.
 * Impact of weather variables:
   * Increase in precipitation reduces foot traffic indicating people don't step out on days it is _likely_ to rain.
-  * Daily sales increase with temperature significantly in Miami 
+  * Daily sales increase with temperature significantly in Miami (indicating summer tourism) but not so much elsewhere.
   * Increase in humidity gives relief on dry hot days, increasing foot traffic.
 ## Recommendations
 * Sales are shaped by weather, location and customer mix. To maximize growth, managers must adapt operations to seasonal shifts and customer patterns.
-* Increase Staff and Stock on **hot summer days**.
+* Increase Staff and Stock on **hot and humid days**.
 * Run **rainy-day discounts** to keep traffic steady.
-* Expand **Miami** in **peak tourism months**.
+* Expand **Miami** in **peak tourism months**, especially target females and singles.
 * Build **loyalty** in **Jacksonville**.
 * Target **families on weekends** and **singles on weekdays**.
 
