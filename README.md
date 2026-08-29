@@ -50,7 +50,7 @@ and _weather_. We then create additional dimensions and measures for analysis an
   * We use DAX to calculate current and previous month's sales and month-over-month sales growth.
   * A Month‑over‑Month (MoM) Sales Growth chart visualizes sales fluctuations across 2023–2024. The accompanying table shows monthly sales, previous month comparisons, and MoM growth percentages. For example, June 2023 shows a strong 15.90% MoM growth, while February 2023 dips by –11.08%.
 * Shop‑wise Revenue Contribution
-  * A Donut chart highlights revenue distribution across four major locations:
+  * A Donut chart highlights revenue distribution across the four major locations:
     * Miami Beach: 32%
     * Orlando: 26%
     * Tampa: 23%
