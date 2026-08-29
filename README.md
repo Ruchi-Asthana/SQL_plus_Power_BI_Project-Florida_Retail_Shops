@@ -64,11 +64,11 @@ and _weather_. We then create additional dimensions and measures for analysis an
   * We also analyse customer traffic seasonality, breaking it down by gender and household type.
   * Weekday vs Weekend Performance
     * Revenue and foot traffic are plotted across all seven days.
-    * Weekends show noticeable lifts in both sales and customer visits, with Saturday and Sunday outperforming weekdays.
+    * Weekends show noticeable lifts in both sales and customer visits.
   * The dashboard also has slicers to filter the visuals based on Year, Shop Name and Rainy/Non-Rainy days.
 * Weather Analysis Dashboard
   * This section correlates daily foot traffic and sales with weather variables to study the impact of weather on customer demand and behaviour.
-    * Temperature vs Sales
+    * Temperature vs daily sales
     * Precipitation vs Foot Traffic
     * Humidity vs Foot Traffic
     * Rainfall vs. daily sales
